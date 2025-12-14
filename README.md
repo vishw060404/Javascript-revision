@@ -15,16 +15,16 @@
 ---
 
 ## 1️⃣ JavaScript Execution Model
-- [x] I understand what the **Call Stack** is
-- [x] I can explain **Execution Context** (Global & Function)
-- [x] I know why JavaScript is **single-threaded**
-- [x] I can explain why **blocking code freezes the UI**
-- [x] I can draw the call stack for nested function calls
+- ✅ I understand what the **Call Stack** is
+- ✅ I can explain **Execution Context** (Global & Function)
+- ✅ I know why JavaScript is **single-threaded**
+- ✅ I can explain why **blocking code freezes the UI**
+- ✅ I can draw the call stack for nested function calls
 
 ---
 
 ## 2️⃣ Variables & Memory
-- [x] I know the real difference between `var`, `let`, `const`
+- ✅ I know the real difference between `var`, `let`, `const`
 - [ ] I understand **reassignment vs mutation**
 - [ ] I can explain **stack vs heap** (conceptually)
 - [ ] I know why `const` objects can still change
