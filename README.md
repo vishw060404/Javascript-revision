@@ -15,7 +15,7 @@
 ---
 
 ## 1️⃣ JavaScript Execution Model
-- [x] I understand what the **Call Stack** is
+- [(U+2705)] I understand what the **Call Stack** is
 - [x] I can explain **Execution Context** (Global & Function)
 - [x] I know why JavaScript is **single-threaded**
 - [x] I can explain why **blocking code freezes the UI**
